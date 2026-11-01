@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hey%20there,%20I'm%2010amr%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20Automation%20Specialist%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hey%20there,%20I'm%20Amr%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20Automation%20Specialist%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Industrial+Automation+Specialist;AI+Developer;Web+Developer;Building+smart,+connected+systems;Welcome+to+my+profile!&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=24&pause=1200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Industrial+Automation+Specialist;Machine+Learning+%26+Python;Web+Developer;Building+smart,+connected+systems;Welcome+to+my+profile!&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=24&pause=1200" alt="Typing SVG" />
 </a>
 
 <br/>
