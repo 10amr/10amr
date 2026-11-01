@@ -14,17 +14,17 @@
 
 <br/>
 
-## 🧭 About Me
+##  About Me
 
-- ⚙️ **Industrial Automation Specialist** — designing and programming PLC/SCADA and control systems for real-world industrial processes.
-- 🤖 **AI Developer** — building intelligent tools and automations powered by modern AI models.
-- 🌐 **Web Developer** — crafting fast, modern, and beautifully designed websites and web apps.
-- 🚀 I love bridging the gap between **hardware automation** and **modern software** to build smarter systems.
-- 📫 Reach out if you want to collaborate on automation, AI, or web projects!
+-  Industrial Automation Specialist — designing and programming PLC/SCADA and control systems for real-world industrial processes.
+-  AI Developer — building intelligent tools and automations powered by modern AI models.
+-  Web Developer — crafting fast, modern, and beautifully designed websites and web apps.
+-  I love bridging the gap between hardware automation and modern software to build smarter systems.
+-  Reach out if you want to collaborate on automation, AI, or web projects!
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -40,7 +40,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 
 <br/>
 
-## 🚀 Top Projects
+##  Top Projects
 
 <div align="center">
 
@@ -64,13 +64,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=10amr&repo=repo-two&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 
-> 📌 **Note:** Pin your favorite repositories on GitHub (Profile → Customize your pins) and replace `repo-one` / `repo-two` above with your actual repository names so these cards render correctly.
+>  **Note:** Pin your favorite repositories on GitHub (Profile → Customize your pins) and replace `repo-one` / `repo-two` above with your actual repository names so these cards render correctly.
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -80,7 +80,7 @@
 
 <br/>
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
